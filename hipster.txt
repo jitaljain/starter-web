@@ -1,4 +1,5 @@
 new text file
-more text added	:wq
+more text added	
+text added to working directory
 
 
